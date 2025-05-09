@@ -23,4 +23,4 @@ makedocs(
     ],
 )
 
-deploydocs(repo = raw"github.com/JuliaPy/PythonCall.jl.git", push_preview = true)
+deploydocs(repo = raw"github.com/Heptazhou/PythonCall.jl.git", devurl = "latest", forcepush = true)
